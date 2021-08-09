@@ -16,4 +16,15 @@ library(blogdown) # load blogdown
 blogdown::check_site()
 
 #in terminal: git add -A
-git commit -A
+git add -A
+
+install.packages("rstudioapi")
+library(rstudioapi) # to easily navigate to files
+rstudioapi::navigateToFile("config.yaml")
+
+##go to content/home -> deactiveate widgets
+#active: false
+
+#remove them from menu
+rstudioapi::navigateToFile("config/_default/menus.yaml")
+#deactivate the ones you dont need with #
