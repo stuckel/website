@@ -1,9 +1,9 @@
-install.packages("blogdown") # install the blogdown package
+#install.packages("blogdown") # install the blogdown package
 
 library(blogdown) # load blogdown
-new_site(theme = "wowchemy/starter-academic") 
+#new_site(theme = "wowchemy/starter-academic") 
 
-file.edit("gitignore")
+#file.edit("gitignore")
 
 ##add lines to gitignore file
 # .Rproj.user
@@ -14,3 +14,6 @@ file.edit("gitignore")
 # Thumbs.db
 
 blogdown::check_site()
+
+#in terminal: git add -A
+git commit -A
