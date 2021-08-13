@@ -28,3 +28,8 @@ rstudioapi::navigateToFile("config.yaml")
 #remove them from menu
 rstudioapi::navigateToFile("config/_default/menus.yaml")
 #deactivate the ones you dont need with #
+
+rstudioapi::navigateToFile("content/menus.yaml")
+
+
+
