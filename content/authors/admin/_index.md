@@ -42,15 +42,11 @@ I am a postdoc in political science at the Goethe University Frankfurt (Chair of
 
 In their communication, parties distinguish between the "us" and "them", the good and bad, the deserving and undeserving. They do this by critizing other parties and thereby signaling to voters the camp they belong to and the politics they oppose (see my article on negative campaigning). They also do it by supporting certain social groups such as women or workers, and critizing other social groups such as immigrants or employers (see my thesis on group appeals). 
 
-Social groups also play a more hidden role for political parties by helping them to focus their campaign on those voters they are most hopeful to win over. The way parties target voters online and the possible implications for democratic discourse is a second research interest of mine (see my working papers on targeting).  
+Social groups also play a more hidden role for political parties by helping them to focus their campaign on those voters they are most hopeful to win over. I study the way parties target voters online and possible implications for democratic discourse.  
 
 Feel free to [contact me](mailto:stuckelberger@soz.uni-frankfurt.de) for questions or collaborations.  
 
 
 
+
 in case I don't see you: Good afternoon, good evening and goodnight. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-
-
