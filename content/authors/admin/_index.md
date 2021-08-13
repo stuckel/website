@@ -8,15 +8,15 @@ interests:
 - (Micro-)Targeting 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Phd in Political Science
+    institution: University of Lausanne
+    year: 2019
+  - course: Msc in Political Sociology
+    institution: London School of Economics and Political Science
+    year: 2013
+  - course: BA in International Relations
+    institution: University of Geneva
+    year: 2011
 organizations:
 - name: Goethe University Frankfurt 
   url: https://www.fb03.uni-frankfurt.de/42585499/
