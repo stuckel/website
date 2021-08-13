@@ -40,12 +40,20 @@ Welcome stranger,
 
 
 
+
+
+
+
 I am a postdoc in political science at the Goethe University Frankfurt (Chair of Comparative Politics). I am interested in the way politicians and political parties divide society and politics up into camps and groups - both in their open political communication and their hidden targeting strategies. 
 
 In their campaigns, parties distinguish between the "us" and "them", the good and bad, the deserving and undeserving. They do this in their negative campaigns against competitors, signaling to voters the political camp they belong to, and they do it with group appeals: supporting certain social groups such as women or workers, and critizing others such as immigrants or employers. 
+
 I also study the more hidden role social groups play in helping parties to target voters that they hope to convince and the role such online targeting has for democratic discourse.  
 
 
 
 
-in case I don't see you: Good afternoon, good evening and goodnight. 
+
+
+
+in case I don't see you: good afternoon, good evening and goodnight. 
