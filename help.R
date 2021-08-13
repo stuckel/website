@@ -15,8 +15,11 @@ library(blogdown) # load blogdown
 
 blogdown::check_site()
 
-#in terminal: git add -A
+##steps after changes
+#1) in terminal: git add -A
 git add -A
+
+#2) in 
 
 install.packages("rstudioapi")
 library(rstudioapi) # to easily navigate to files
@@ -27,6 +30,8 @@ rstudioapi::navigateToFile("config.yaml")
 
 #remove them from menu
 rstudioapi::navigateToFile("config/_default/menus.yaml")
+#add the one by making it fit with the document in home/publications
+
 #deactivate the ones you dont need with #
 
 rstudioapi::navigateToFile("content/menus.yaml")

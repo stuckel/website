@@ -6,6 +6,18 @@ interests:
 - Group appeals 
 - Representation
 - (Micro-)Targeting 
+
+education:
+   courses:
+   - PhD in Political Science 
+     institution: University of Lausanne
+     year: 2019
+   - MsC in Political Sociology
+     institution: London School of Economics and Political Science
+     year: 2013
+   - BA in International Relations
+     institution: University of Geneva
+     year: 2011
 organizations:
 - name: Goethe University Frankfurt 
   url: https://www.fb03.uni-frankfurt.de/42585499/
@@ -41,18 +53,5 @@ in case I don't see you: Good afternoon, good evening and goodnight.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-# bio: My research interests include distributed robotics, mobile computing and programmable
-#   matter.
 
-# education:
-#   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
 
