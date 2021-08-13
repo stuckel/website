@@ -24,8 +24,6 @@ wissenschaftlichen Zwecken.
 **Datenschutzverantwortlicher**
 
 Simon Stückelberger 
-
 Uhlandstrasse 60
-
 60314 Frankfurt am Main
 
