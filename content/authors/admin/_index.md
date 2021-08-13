@@ -45,6 +45,8 @@ I am a postdoc in political science at the Goethe University Frankfurt (Chair of
 In their campaigns, parties distinguish between the "us" and "them", the good and bad, the deserving and undeserving. They do this in their negative campaigns against competitors, signaling to voters the political camp they belong to, and they do it with group appeals: supporting certain social groups such as women or workers, and critizing others such as immigrants or employers. 
 
 I also study the more hidden role social groups play in helping parties to target voters and the implications of online targeting for democratic discourse.  
-
+&nbsp  
+&nbsp  
+&nbsp 
 
 *in case I don't see you: good afternoon, good evening and goodnight.* 
