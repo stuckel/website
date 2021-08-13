@@ -21,6 +21,8 @@ Daten zugegriffen, welche Facebook in der Werbebibliothek bereitstellt.
 Der Zugriff auf die Facebook Werbebibliothek dient allein
 wissenschaftlichen Zwecken.
 
-Datenschutzverantwortlicher Simon Stückelberger Uhlandstrasse 60 60314
-Frankfurt am Main
+*Datenschutzverantwortlicher*
+Simon Stückelberger 
+Uhlandstrasse 60
+60314 Frankfurt am Main
 
